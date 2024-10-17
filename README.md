@@ -4,7 +4,8 @@ It is a library for work with matrix on python
 
 ## Functions and status
 
-- [ ] Input matrix
+- [x] Input matrix
+- [x] Output matrix
 - [ ] Math with matrix
 - [ ] Find a minor of element
 - [ ] Find a algebraic complement
